@@ -1,0 +1,42 @@
+﻿INDICATORS;DE
+Ind_01_01;Bevölkerung - Einwohner
+Ind_01_02;Bevölkerung - Einwohner, Veränderung
+Ind_01_03;Bevölkerung - Bevölkerungsdichte
+Ind_01_04;Bevölkerung - Anteil Altersgruppe 0-19 Jahre
+Ind_01_05;Bevölkerung - Anteil Altersgruppe 20-64 Jahre
+Ind_01_06;Bevölkerung - Anteil Altersgruppe 65+ Jahre
+Ind_01_08;Bevölkerung - Ausländer
+Ind_01_09;Bevölkerung - Rohe Heiratsziffer
+Ind_01_10;Bevölkerung - Rohe Scheidungsziffer
+Ind_01_11;Bevölkerung - Rohe Geburtenziffer
+Ind_01_12;Bevölkerung - Rohe Sterbeziffer
+Ind_01_13;Bevölkerung - Anzahl Privathaushalte
+Ind_01_14;Bevölkerung - Durchschnittliche Haushaltsgrösse
+Ind_04_01;Fläche - Fläche, Total
+Ind_04_02;Fläche - Siedlungsflächen
+Ind_04_03;Fläche - Siedlungsflächen, Veränderung
+Ind_04_04;Fläche - Landwirtschaftsflächen
+Ind_04_05;Fläche - Landwirtschaftsflächen, Veränderung
+Ind_04_06;Fläche - Wald und Gehölze
+Ind_04_07;Fläche - Unproduktive Flächen
+Ind_06_03;Wirtschaft - Beschäftigte, Total
+Ind_06_04;Wirtschaft - Beschäftigte, im 1. Sektor
+Ind_06_05;Wirtschaft - Beschäftigte, im 2. Sektor
+Ind_06_06;Wirtschaft - Beschäftigte, im 3. Sektor
+Ind_06_07;Wirtschaft - Arbeitsstätten, Total
+Ind_06_08;Wirtschaft - Arbeitsstätten, im 1. Sektor
+Ind_06_09;Wirtschaft - Arbeitsstätten, im 2. Sektor
+Ind_06_10;Wirtschaft - Arbeitsstätten, im 3. Sektor
+Ind_08_01;Bau- und Wohnungswesen - Leerwohnungsziffer
+Ind_08_04;Bau- und Wohnungswesen - Neu gebaute Wohnungen
+Ind_11_01;Soziale Sicherheit - Sozialhilfequote
+Ind_14_01;Wähleranteile ausgewählter Parteien (NR-Wahlen) - FDP
+Ind_14_02;Wähleranteile ausgewählter Parteien (NR-Wahlen) - CVP
+Ind_14_03;Wähleranteile ausgewählter Parteien (NR-Wahlen) - SP
+Ind_14_04;Wähleranteile ausgewählter Parteien (NR-Wahlen) - SVP
+Ind_14_05;Wähleranteile ausgewählter Parteien (NR-Wahlen) - EVP/CSP
+Ind_14_06;Wähleranteile ausgewählter Parteien (NR-Wahlen) - GLP
+Ind_14_07;Wähleranteile ausgewählter Parteien (NR-Wahlen) - BDP
+Ind_14_08;Wähleranteile ausgewählter Parteien (NR-Wahlen) - PdA/Sol.
+Ind_14_09;Wähleranteile ausgewählter Parteien (NR-Wahlen) - GPS
+Ind_14_10;Wähleranteile ausgewählter Parteien (NR-Wahlen) - Kleine Rechtsparteien
