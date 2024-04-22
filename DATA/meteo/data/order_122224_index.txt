@@ -1,0 +1,196 @@
+Bundesamt für Meteorologie und Klimatologie, MeteoSchweiz
+Operation Center 1
+Postfach 257
+8058 Zürich-Flughafen
+
+Bestellnummer 122224
+
+Dateiname                               Dateityp  Station                              Parameter                                                   Zeitinterval
+order_122224_ZELUAE_rre150h0_1_data.txt Daten     Aesch                                Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUAE_rre150h0_1_legend.txt Legende   Aesch                                Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUAW_rre150h0_1_data.txt Daten     Alberswil                            Niederschlag; Stundensumme                                  2020123000-2021042813
+order_122224_ZELUAW_rre150h0_1_legend.txt Legende   Alberswil                            Niederschlag; Stundensumme                                  2020123000-2021042813
+order_122224_ZELUAW_rre150h0_2_data.txt Daten     Alberswil                            Niederschlag; Stundensumme                                  2021072113-2022123023
+order_122224_ZELUAW_rre150h0_2_legend.txt Legende   Alberswil                            Niederschlag; Stundensumme                                  2021072113-2022123023
+order_122224_ZELUBD_rre150h0_1_data.txt Daten     Bermudadreieck                       Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUBD_rre150h0_1_legend.txt Legende   Bermudadreieck                       Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_NABBRM_tre200h0_1_data.txt Daten     Beromünster                          Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_NABBRM_tre200h0_1_legend.txt Legende   Beromünster                          Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_NABBRM_rre150h0_1_data.txt Daten     Beromünster                          Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_NABBRM_rre150h0_1_legend.txt Legende   Beromünster                          Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUBR_rre150h0_1_data.txt Daten     Buchrain                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUBR_rre150h0_1_legend.txt Legende   Buchrain                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUBU_rre150h0_1_data.txt Daten     Buchs                                Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUBU_rre150h0_1_legend.txt Legende   Buchs                                Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUBH_rre150h0_1_data.txt Daten     Buttisholz                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUBH_rre150h0_1_legend.txt Legende   Buttisholz                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_INNEBI_tre200h0_1_data.txt Daten     Ebikon                               Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_INNEBI_tre200h0_1_legend.txt Legende   Ebikon                               Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_EGO_tre200h0_1_data.txt    Daten     Egolzwil                             Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_EGO_tre200h0_1_legend.txt  Legende   Egolzwil                             Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_EGO_rre150h0_1_data.txt    Daten     Egolzwil                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_EGO_rre150h0_1_legend.txt  Legende   Egolzwil                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_EGO_sre000h0_1_data.txt    Daten     Egolzwil                             Sonnenscheindauer; Stundensumme                             2020123000-2022123023
+order_122224_EGO_sre000h0_1_legend.txt  Legende   Egolzwil                             Sonnenscheindauer; Stundensumme                             2020123000-2022123023
+order_122224_EMM_tre200h0_1_data.txt    Daten     Emmen                                Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_EMM_tre200h0_1_legend.txt  Legende   Emmen                                Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_LUEMM_rre150h0_1_data.txt  Daten     Emmen                                Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUEMM_rre150h0_1_legend.txt Legende   Emmen                                Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ENT_rre150h0_1_data.txt    Daten     Entlebuch                            Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ENT_rre150h0_1_legend.txt  Legende   Entlebuch                            Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUEB_rre150h0_1_data.txt Daten     Eschenbach                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUEB_rre150h0_1_legend.txt Legende   Eschenbach                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_FLU_tre200h0_1_data.txt    Daten     Flühli, LU                           Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_FLU_tre200h0_1_legend.txt  Legende   Flühli, LU                           Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_FLU_rre150h0_1_data.txt    Daten     Flühli, LU                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_FLU_rre150h0_1_legend.txt  Legende   Flühli, LU                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUFT_rre150h0_1_data.txt Daten     Fontannen / Romoos                   Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUFT_rre150h0_1_legend.txt Legende   Fontannen / Romoos                   Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUGE_rre150h0_1_data.txt Daten     Gettnau                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUGE_rre150h0_1_legend.txt Legende   Gettnau                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUGI_rre150h0_1_data.txt Daten     Gisikon                              Niederschlag; Stundensumme                                  2020123000-2021050700
+order_122224_ZELUGI_rre150h0_1_legend.txt Legende   Gisikon                              Niederschlag; Stundensumme                                  2020123000-2021050700
+order_122224_ZELUGI_rre150h0_2_data.txt Daten     Gisikon                              Niederschlag; Stundensumme                                  2021112518-2022081903
+order_122224_ZELUGI_rre150h0_2_legend.txt Legende   Gisikon                              Niederschlag; Stundensumme                                  2021112518-2022081903
+order_122224_ZELUGI_rre150h0_3_data.txt Daten     Gisikon                              Niederschlag; Stundensumme                                  2022101809-2022123023
+order_122224_ZELUGI_rre150h0_3_legend.txt Legende   Gisikon                              Niederschlag; Stundensumme                                  2022101809-2022123023
+order_122224_ZGGRE_rre150h0_1_data.txt  Daten     Greppen                              Niederschlag; Stundensumme                                  2020123123-2022123023
+order_122224_ZGGRE_rre150h0_1_legend.txt Legende   Greppen                              Niederschlag; Stundensumme                                  2020123123-2022123023
+order_122224_ZELUGB_rre150h0_1_data.txt Daten     Grosshofbrücke                       Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUGB_rre150h0_1_legend.txt Legende   Grosshofbrücke                       Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUHA_rre150h0_1_data.txt Daten     Haltiwald N2                         Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUHA_rre150h0_1_legend.txt Legende   Haltiwald N2                         Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUHW_rre150h0_1_data.txt Daten     Hergiswil                            Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUHW_rre150h0_1_legend.txt Legende   Hergiswil                            Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUHE_rre150h0_1_data.txt Daten     Herlisberg                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUHE_rre150h0_1_legend.txt Legende   Herlisberg                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUHR_rre150h0_1_data.txt Daten     Hildisrieden                         Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUHR_rre150h0_1_legend.txt Legende   Hildisrieden                         Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUHOC_rre150h0_1_data.txt  Daten     Hochdorf                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUHOC_rre150h0_1_legend.txt Legende   Hochdorf                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUHB_rre150h0_1_data.txt Daten     Hämikon Berg                         Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUHB_rre150h0_1_legend.txt Legende   Hämikon Berg                         Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUKH_rre150h0_1_data.txt Daten     Knutwilerhöhe                        Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUKH_rre150h0_1_legend.txt Legende   Knutwilerhöhe                        Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUKW_rre150h0_1_data.txt Daten     Kottwil                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUKW_rre150h0_1_legend.txt Legende   Kottwil                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LULAN_rre150h0_1_data.txt  Daten     Langnau                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LULAN_rre150h0_1_legend.txt Legende   Langnau                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELULE_rre150h0_1_data.txt Daten     Lehn                                 Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELULE_rre150h0_1_legend.txt Legende   Lehn                                 Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELULI_rre150h0_1_data.txt Daten     Littau                               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELULI_rre150h0_1_legend.txt Legende   Littau                               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELULB_rre150h0_1_data.txt Daten     Littauerboden                        Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELULB_rre150h0_1_legend.txt Legende   Littauerboden                        Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUZ_tre200h0_1_data.txt    Daten     Luzern                               Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_LUZ_tre200h0_1_legend.txt  Legende   Luzern                               Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_LUZ_rre150h0_1_data.txt    Daten     Luzern                               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUZ_rre150h0_1_legend.txt  Legende   Luzern                               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUZ_sre000h0_1_data.txt    Daten     Luzern                               Sonnenscheindauer; Stundensumme                             2020123000-2022123023
+order_122224_LUZ_sre000h0_1_legend.txt  Legende   Luzern                               Sonnenscheindauer; Stundensumme                             2020123000-2022123023
+order_122224_INNLUZ_tre200h0_1_data.txt Daten     Luzern                               Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_INNLUZ_tre200h0_1_legend.txt Legende   Luzern                               Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_LUMAL_rre150h0_1_data.txt  Daten     Malters                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUMAL_rre150h0_1_legend.txt Legende   Malters                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_BEMBE_tre200h0_1_data.txt  Daten     Marbachegg                           Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_BEMBE_tre200h0_1_legend.txt Legende   Marbachegg                           Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_BEMBE_rre150h0_1_data.txt  Daten     Marbachegg                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_BEMBE_rre150h0_1_legend.txt Legende   Marbachegg                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUMK_rre150h0_1_data.txt Daten     Meierskappel                         Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUMK_rre150h0_1_legend.txt Legende   Meierskappel                         Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUMB_rre150h0_1_data.txt Daten     Menzberg                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUMB_rre150h0_1_legend.txt Legende   Menzberg                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUME_rre150h0_1_data.txt Daten     Menznau                              Niederschlag; Stundensumme                                  2020123000-2021062814
+order_122224_ZELUME_rre150h0_1_legend.txt Legende   Menznau                              Niederschlag; Stundensumme                                  2020123000-2021062814
+order_122224_ZELUME_rre150h0_2_data.txt Daten     Menznau                              Niederschlag; Stundensumme                                  2021083112-2022123023
+order_122224_ZELUME_rre150h0_2_legend.txt Legende   Menznau                              Niederschlag; Stundensumme                                  2021083112-2022123023
+order_122224_MOA_tre200h0_1_data.txt    Daten     Mosen                                Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_MOA_tre200h0_1_legend.txt  Legende   Mosen                                Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_MOA_rre150h0_1_data.txt    Daten     Mosen                                Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_MOA_rre150h0_1_legend.txt  Legende   Mosen                                Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_MOA_sre000h0_1_data.txt    Daten     Mosen                                Sonnenscheindauer; Stundensumme                             2020123000-2022123023
+order_122224_MOA_sre000h0_1_legend.txt  Legende   Mosen                                Sonnenscheindauer; Stundensumme                             2020123000-2022123023
+order_122224_ZELUNK_rre150h0_1_data.txt Daten     Neuenkirch                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUNK_rre150h0_1_legend.txt Legende   Neuenkirch                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUOK_rre150h0_1_data.txt Daten     Oberkirch                            Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUOK_rre150h0_1_legend.txt Legende   Oberkirch                            Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_INNRED_tre200h0_1_data.txt Daten     Reiden                               Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_INNRED_tre200h0_1_legend.txt Legende   Reiden                               Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_ZELURB_rre150h0_1_data.txt Daten     Reussbrücke                          Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURB_rre150h0_1_legend.txt Legende   Reussbrücke                          Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURI_rre150h0_1_data.txt Daten     Rickenbach                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURI_rre150h0_1_legend.txt Legende   Rickenbach                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURW_rre150h0_1_data.txt Daten     Roggliswil                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURW_rre150h0_1_legend.txt Legende   Roggliswil                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUROO_rre150h0_1_data.txt  Daten     Root                                 Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUROO_rre150h0_1_legend.txt Legende   Root                                 Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURK_rre150h0_1_data.txt Daten     Rotbach Kantonsstrasse               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURK_rre150h0_1_legend.txt Legende   Rotbach Kantonsstrasse               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURN_rre150h0_1_data.txt Daten     Rotbach Nationalstrasse              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURN_rre150h0_1_legend.txt Legende   Rotbach Nationalstrasse              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURO_rre150h0_1_data.txt Daten     Rothenburg                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURO_rre150h0_1_legend.txt Legende   Rothenburg                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURU_rre150h0_1_data.txt Daten     Ruswil                               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURU_rre150h0_1_legend.txt Legende   Ruswil                               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURS_rre150h0_1_data.txt Daten     Rüeggisingerbrücke                   Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELURS_rre150h0_1_legend.txt Legende   Rüeggisingerbrücke                   Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUSC_rre150h0_1_data.txt Daten     Schlund                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUSC_rre150h0_1_legend.txt Legende   Schlund                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUSG_rre150h0_1_data.txt Daten     Schongau                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUSG_rre150h0_1_legend.txt Legende   Schongau                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUSH_rre150h0_1_data.txt Daten     Schwanderholz                        Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUSH_rre150h0_1_legend.txt Legende   Schwanderholz                        Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUSB_rre150h0_1_data.txt Daten     Schwarzenberg                        Niederschlag; Stundensumme                                  2020123000-2021071218
+order_122224_ZELUSB_rre150h0_1_legend.txt Legende   Schwarzenberg                        Niederschlag; Stundensumme                                  2020123000-2021071218
+order_122224_ZELUSB_rre150h0_2_data.txt Daten     Schwarzenberg                        Niederschlag; Stundensumme                                  2021091415-2022123023
+order_122224_ZELUSB_rre150h0_2_legend.txt Legende   Schwarzenberg                        Niederschlag; Stundensumme                                  2021091415-2022123023
+order_122224_SPF_tre200h0_1_data.txt    Daten     Schüpfheim                           Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_SPF_tre200h0_1_legend.txt  Legende   Schüpfheim                           Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_SPF_rre150h0_1_data.txt    Daten     Schüpfheim                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_SPF_rre150h0_1_legend.txt  Legende   Schüpfheim                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_SPF_sre000h0_1_data.txt    Daten     Schüpfheim                           Sonnenscheindauer; Stundensumme                             2020123000-2022123023
+order_122224_SPF_sre000h0_1_legend.txt  Legende   Schüpfheim                           Sonnenscheindauer; Stundensumme                             2020123000-2022123023
+order_122224_ZELUSM_rre150h0_1_data.txt Daten     Schüpfheim                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUSM_rre150h0_1_legend.txt Legende   Schüpfheim                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUSCH_rre150h0_1_data.txt  Daten     Schüpfheim                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUSCH_rre150h0_1_legend.txt Legende   Schüpfheim                           Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUSEM_rre150h0_1_data.txt  Daten     Sempach                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUSEM_rre150h0_1_legend.txt Legende   Sempach                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUST_rre150h0_1_data.txt Daten     Stänglematten                        Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUST_rre150h0_1_legend.txt Legende   Stänglematten                        Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUSUR_rre150h0_1_data.txt  Daten     Sursee                               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUSUR_rre150h0_1_legend.txt Legende   Sursee                               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUSO_rre150h0_1_data.txt Daten     Sörenberg                            Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUSO_rre150h0_1_legend.txt Legende   Sörenberg                            Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUTB_rre150h0_1_data.txt Daten     Triechterbrücke                      Niederschlag; Stundensumme                                  2020123000-2021082314
+order_122224_ZELUTB_rre150h0_1_legend.txt Legende   Triechterbrücke                      Niederschlag; Stundensumme                                  2020123000-2021082314
+order_122224_ZELUTB_rre150h0_2_data.txt Daten     Triechterbrücke                      Niederschlag; Stundensumme                                  2021110816-2022123023
+order_122224_ZELUTB_rre150h0_2_legend.txt Legende   Triechterbrücke                      Niederschlag; Stundensumme                                  2021110816-2022123023
+order_122224_MMTRG_tre200h0_1_data.txt  Daten     Triengen                             Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_MMTRG_tre200h0_1_legend.txt Legende   Triengen                             Lufttemperatur 2 m über Boden; Stundenmittel                2020123000-2022123023
+order_122224_MMTRG_rre150h0_1_data.txt  Daten     Triengen                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_MMTRG_rre150h0_1_legend.txt Legende   Triengen                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUTR_rre150h0_1_data.txt Daten     Triengen                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUTR_rre150h0_1_legend.txt Legende   Triengen                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUTG_rre150h0_1_data.txt Daten     Truttigen                            Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUTG_rre150h0_1_legend.txt Legende   Truttigen                            Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUUF_rre150h0_1_data.txt Daten     Ufhusen                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUUF_rre150h0_1_legend.txt Legende   Ufhusen                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUUM_rre150h0_1_data.txt Daten     Umfahrung Malters                    Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUUM_rre150h0_1_legend.txt Legende   Umfahrung Malters                    Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUVI_rre150h0_1_data.txt Daten     Vitznau                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUVI_rre150h0_1_legend.txt Legende   Vitznau                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUWE_rre150h0_1_data.txt Daten     Weggis                               Niederschlag; Stundensumme                                  2020123000-2022042806
+order_122224_ZELUWE_rre150h0_1_legend.txt Legende   Weggis                               Niederschlag; Stundensumme                                  2020123000-2022042806
+order_122224_ZELUWE_rre150h0_2_data.txt Daten     Weggis                               Niederschlag; Stundensumme                                  2022100607-2022123023
+order_122224_ZELUWE_rre150h0_2_legend.txt Legende   Weggis                               Niederschlag; Stundensumme                                  2022100607-2022123023
+order_122224_ZELUWI_rre150h0_1_data.txt Daten     Wiggen                               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUWI_rre150h0_1_legend.txt Legende   Wiggen                               Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUWK_rre150h0_1_data.txt Daten     Wikon                                Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUWK_rre150h0_1_legend.txt Legende   Wikon                                Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUWIL_rre150h0_1_data.txt  Daten     Willisau                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUWIL_rre150h0_1_legend.txt Legende   Willisau                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUWOL_rre150h0_1_data.txt  Daten     Wolhusen                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_LUWOL_rre150h0_1_legend.txt Legende   Wolhusen                             Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUZI_rre150h0_1_data.txt Daten     Zinggen                              Niederschlag; Stundensumme                                  2020123000-2022123023
+order_122224_ZELUZI_rre150h0_1_legend.txt Legende   Zinggen                              Niederschlag; Stundensumme                                  2020123000-2022123023
