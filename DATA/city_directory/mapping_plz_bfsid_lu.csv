@@ -1,0 +1,138 @@
+﻿plz,cityName,bfsId,lawCityName
+3555,Trubschachen,1010,Escholzmatt-Marbach
+4806,Wikon,1147,Wikon
+4915,St. Urban,1139,Pfaffnau
+4952,Eriswil,1145,Ufhusen
+4955,Gondiswil,1145,Ufhusen
+5735,Pfeffikon LU,1097,Rickenbach (LU)
+6003,Luzern,1061,Luzern
+6004,Luzern,1054,Ebikon
+6005,Luzern,1058,Horw
+6006,Luzern,1063,Meggen
+6010,Kriens,1059,Kriens
+6012,Obernau,1059,Kriens
+6013,Eigenthal,1066,Schwarzenberg
+6014,Luzern,1061,Luzern
+6015,Luzern,1061,Luzern
+6016,Hellbühl,1093,Neuenkirch
+6017,Ruswil,1098,Ruswil
+6018,Buttisholz,1083,Buttisholz
+6019,Ruswil,1098,Ruswil
+6020,Emmenbrücke,1024,Emmen
+6022,Grosswangen,1086,Grosswangen
+6023,Rothenburg,1040,Rothenburg
+6024,Hildisrieden,1088,Hildisrieden
+6025,Neudorf,1081,Beromünster
+6026,Rain,1037,Rain
+6027,Römerswil LU,1039,Römerswil
+6028,Herlisberg,1081,Beromünster
+6030,Ebikon,1054,Ebikon
+6032,Emmen,1024,Emmen
+6033,Buchrain,1052,Buchrain
+6034,Inwil,1033,Inwil
+6035,Perlen,1052,Buchrain
+6036,Dierikon,1053,Dierikon
+6037,Root,1065,Root
+6038,Gisikon,1055,Gisikon
+6038,Honau,1057,Honau
+6039,Root D4,1065,Root
+6043,Adligenswil,1051,Adligenswil
+6044,Udligenswil,1067,Udligenswil
+6045,Meggen,1063,Meggen
+6047,Kastanienbaum,1058,Horw
+6048,Horw,1058,Horw
+6052,Hergiswil NW,1058,Horw
+6102,Malters,1062,Malters
+6103,Schwarzenberg LU,1066,Schwarzenberg
+6105,Schachen LU,1002,Entlebuch
+6106,Werthenstein,1009,Werthenstein
+6110,Wolhusen,1107,Wolhusen
+6112,Doppleschwand,1001,Doppleschwand
+6113,Romoos,1007,Romoos
+6114,Steinhuserberg,1107,Wolhusen
+6122,Menznau,1136,Menznau
+6123,Geiss,1136,Menznau
+6125,Menzberg,1136,Menznau
+6126,Daiwil,1151,Willisau
+6130,Willisau,1151,Willisau
+6132,Rohrmatt,1132,Hergiswil bei Willisau
+6133,Hergiswil b. Willisau,1132,Hergiswil bei Willisau
+6142,Gettnau,1151,Willisau
+6143,Ohmstal,1151,Willisau
+6144,Zell LU,1150,Zell (LU)
+6145,Fischbach LU,1129,Fischbach
+6146,Grossdietwil,1131,Grossdietwil
+6147,Altbüron,1122,Altbüron
+6152,Hüswil,1150,Zell (LU)
+6153,Ufhusen,1145,Ufhusen
+6154,Hofstatt,1135,Luthern
+6156,Luthern,1135,Luthern
+6162,Entlebuch,1002,Entlebuch
+6163,Ebnet,1002,Entlebuch
+6166,Hasle LU,1005,Hasle (LU)
+6167,Bramboden,1007,Romoos
+6170,Schüpfheim,1008,Schüpfheim
+6173,Flühli LU,1004,Flühli
+6174,Sörenberg,1004,Flühli
+6182,Escholzmatt,1010,Escholzmatt-Marbach
+6192,Wiggen,1010,Escholzmatt-Marbach
+6196,Marbach LU,1010,Escholzmatt-Marbach
+6197,Schangnau,1004,Flühli
+6203,Sempach Station,1093,Neuenkirch
+6204,Sempach,1102,Sempach
+6205,Eich,1084,Eich
+6206,Neuenkirch,1093,Neuenkirch
+6207,Nottwil,1094,Nottwil
+6208,Oberkirch LU,1095,Oberkirch
+6210,Sursee,1103,Sursee
+6211,Buchs LU,1125,Dagmersellen
+6212,St. Erhard,1089,Knutwil
+6213,Knutwil,1089,Knutwil
+6214,Schenkon,1099,Schenkon
+6215,Beromünster,1081,Beromünster
+6216,Mauensee,1091,Mauensee
+6217,Kottwil,1128,Ettiswil
+6218,Ettiswil,1128,Ettiswil
+6221,Rickenbach LU,1097,Rickenbach (LU)
+6222,Gunzwil,1081,Beromünster
+6231,Schlierbach,1100,Schlierbach
+6232,Geuensee,1085,Geuensee
+6233,Büron,1082,Büron
+6234,Triengen,1104,Triengen
+6235,Winikon,1104,Triengen
+6236,Wilihof,1104,Triengen
+6242,Wauwil,1146,Wauwil
+6243,Egolzwil,1127,Egolzwil
+6244,Nebikon,1137,Nebikon
+6245,Ebersecken,1131,Grossdietwil
+6246,Altishofen,1123,Altishofen
+6247,Schötz,1143,Schötz
+6248,Alberswil,1121,Alberswil
+6252,Dagmersellen,1125,Dagmersellen
+6253,Uffikon,1125,Dagmersellen
+6260,Reiden,1140,Reiden
+6262,Langnau b. Reiden,1140,Reiden
+6263,Richenthal,1140,Reiden
+6264,Pfaffnau,1139,Pfaffnau
+6265,Roggliswil,1142,Roggliswil
+6274,Eschenbach LU,1026,Eschenbach (LU)
+6275,Ballwil,1023,Ballwil
+6276,Hohenrain,1032,Hohenrain
+6277,Kleinwangen,1032,Hohenrain
+6280,Hochdorf,1031,Hochdorf
+6283,Baldegg,1031,Hochdorf
+6284,Gelfingen,1030,Hitzkirch
+6285,Hitzkirch,1030,Hitzkirch
+6285,Retschwil,1030,Hitzkirch
+6286,Altwis,1030,Hitzkirch
+6287,Aesch LU,1021,Aesch (LU)
+6288,Schongau,1041,Schongau
+6289,Müswangen,1030,Hitzkirch
+6294,Ermensee,1025,Ermensee
+6295,Mosen,1030,Hitzkirch
+6344,Meierskappel,1064,Meierskappel
+6353,Weggis,1069,Weggis
+6354,Vitznau,1068,Vitznau
+6356,Rigi Kaltbad,1069,Weggis
+6365,Kehrsiten,1061,Luzern
+6404,Greppen,1056,Greppen
